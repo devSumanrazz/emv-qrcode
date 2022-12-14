@@ -1,4 +1,4 @@
-name: emvqrcode
+name: emv-qrcode
 description: a flutter plugin for decode and genrate emvqrcode.
 version: 1.0.0
 homepage: https://github.com/Boutsakolaiy/emvqrcode.git
